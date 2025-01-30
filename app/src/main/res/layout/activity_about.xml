@@ -104,7 +104,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="12dp"
-                        android:text="ahmadhakin@dicoding.com"
+                        android:text="ahmadhaqinn@gmail.com"
                         android:textSize="16sp"
                         android:textColor="@color/gray_text"
                         tools:ignore="HardcodedText" />
